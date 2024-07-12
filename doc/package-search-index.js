@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"desing","l":"decorator"},{"m":"desing","l":"desingpattern"},{"m":"desing","l":"observer"}];updateSearchResults();
